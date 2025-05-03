@@ -1,0 +1,4 @@
+com\exemplo\repositorio\UsuarioRepositorio.class
+com\exemplo\modelo\Usuario.class
+com\exemplo\controle\UsuarioBean.class
+com\exemplo\servico\UsuarioServico.class
